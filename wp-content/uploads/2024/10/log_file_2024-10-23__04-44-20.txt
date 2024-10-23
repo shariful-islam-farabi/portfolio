@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: writer were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/si_farabi
+Data file = C:\xampp\htdocs\si_farabi/wp-content/uploads/2024/10/demo-content-import-file_2024-10-23__04-44-20.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2022-07-17__19-25-18" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-05-01__17-46-52" (Media)
+[ERROR] Failed to import "bg" (Media)
+[ERROR] Failed to import "blog1" (Media)
+[ERROR] Failed to import "blog2" (Media)
+[ERROR] Failed to import "blog3" (Media)
+[ERROR] Failed to import "wwork6" (Media)
+[ERROR] Failed to import "wwork5" (Media)
+[ERROR] Failed to import "wwork4" (Media)
+[ERROR] Failed to import "wwork3" (Media)
+[ERROR] Failed to import "wwork2" (Media)
+[ERROR] Failed to import "wwork1" (Media)
+[ERROR] Failed to import "work5" (Media)
+[ERROR] Failed to import "avatar1" (Media)
+[ERROR] Failed to import "bg-1" (Media)
+[ERROR] Failed to import "bg-2" (Media)
+[ERROR] Failed to import "Dublin-Resume-Template-Modern" (Media)
+[ERROR] Failed to import "certificate" (Media)
+[ERROR] Failed to import "brand1_d" (Media)
+[ERROR] Failed to import "brand2_d" (Media)
+[ERROR] Failed to import "brand3" (Media)
+[ERROR] Failed to import "brand3_d" (Media)
+[ERROR] Failed to import "avatar2" (Media)
+[ERROR] Failed to import "testi2" (Media)
+
+
+---ocdi/after_import---
+
